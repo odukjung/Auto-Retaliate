@@ -1,4 +1,7 @@
 {
-	"disableAutoUpdate": false,
-	"servers": [""]
+    "disableAutoUpdate": false,
+    "name": "Auto-Retaliate",
+    "author": "PsykoDev, odukjung",
+    "description": "Auto Retaliate when knock down any class",
+    "servers": [""]
 }
